@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\obj\Debug\stringUvod.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\obj\Debug\stringUvod.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\bin\Debug\stringUvod.exe.config
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\bin\Debug\stringUvod.exe
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\bin\Debug\stringUvod.pdb
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\obj\Debug\stringUvod.exe
+C:\Users\Učenik\source\repos\stringUvod\stringUvod\obj\Debug\stringUvod.pdb
